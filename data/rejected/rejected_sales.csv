@@ -1,0 +1,2 @@
+order_id,order_date,customer,product,quantity,price,total
+ORD010,2026-07-21,Test,Mouse,0,20,0

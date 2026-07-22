@@ -1,0 +1,12 @@
+order_id,order_date,customer,product,quantity,price
+ORD001,2026-07-17,elon,Laptop,2,800
+ORD002,2026/07/17,SARA,Mouse,3,20
+ORD003,17-07-2026,Ardit,Keyboard,1,50
+ORD004,2026-07-18,  sara  ,Monitor,2,150
+ORD005,2026-07-18,John Doe,Laptop,1,800
+ORD006,2026-07-19,ELON,Mouse,5,20
+ORD007,,Ardit,Keyboard,2,50
+ORD008,2026-07-19,Sara,Laptop,1,800
+ORD008,2026-07-19,Sara,Laptop,1,800
+ORD009,2026-07-20,Michael,Headphones,3,60
+ORD010,2026-07-21,Test,Mouse,0,20

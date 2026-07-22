@@ -1,0 +1,7 @@
+order_id,order_date,customer,product,quantity,price,total
+ORD001,2026-07-17,Elon,Laptop,2,800,1600
+ORD004,2026-07-18,Sara,Monitor,2,150,300
+ORD005,2026-07-18,John Doe,Laptop,1,800,800
+ORD006,2026-07-19,Elon,Mouse,5,20,100
+ORD008,2026-07-19,Sara,Laptop,1,800,800
+ORD009,2026-07-20,Michael,Headphones,3,60,180

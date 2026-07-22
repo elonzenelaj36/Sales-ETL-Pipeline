@@ -1,0 +1,28 @@
+
+ETL SALES REPORT
+================
+
+Input rows:
+11
+
+Processed rows:
+6
+
+Rejected rows:
+1
+
+
+Total Revenue:
+$3780
+
+
+Top Product:
+Laptop
+
+
+Top Customer:
+Elon
+
+
+Pipeline Status:
+SUCCESS
